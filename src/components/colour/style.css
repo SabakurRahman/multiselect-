@@ -1,0 +1,23 @@
+/* styles.css */
+.div1 {
+  height: 100vh;
+  background-color: #101010;
+  padding: 20px;
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
